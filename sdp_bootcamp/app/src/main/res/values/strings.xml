@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bootcamp</string>
+    <string name="go">Go !</string>
+    <string name="enter_your_text_here">Enter your text here.</string>
+</resources>
