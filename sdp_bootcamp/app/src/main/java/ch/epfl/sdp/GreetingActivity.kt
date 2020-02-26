@@ -15,7 +15,8 @@ class GreetingActivity : AppCompatActivity() {
 
         // Capture the layout's TextView and set the string as its text
         val textView = findViewById<TextView>(R.id.greetingMessage).apply {
-            text = "Hello $message"
+            val concat = "Hello $message"
+            text = concat
         }
     }
 }
